@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 I'm Omar Majzoub, a passionate software developer and Computer Science - Cybersecurity master's student at EPFL.
 
 ### Languages and Tools:
-JavaScript and Typescript, HTML, CSS, React, Node.js + Express.js
-Python, Java, C# in .NET, PHP, MongoDB, SQL, some experience with Oracle and MySQL Databases, some Angular experience, some Arduino Programming experience, and knowledge of C programming.
+🚀 JavaScript and Typescript, HTML, CSS, React, Node.js + Express.js,
+Python, Java, C# in .NET, PHP, MongoDB, SQL, some experience with Oracle and MySQL Databases, some Angular experience, some Arduino Programming experience, and knowledge of C programming. 🛠️
 
 ### GitHub Stats:
 
