@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Omar Majzoub, a passionate software developer and Computer Science - Cybersecurity master's student at EPFL.
+
+### Languages and Tools:
+JavaScript and Typescript, HTML, CSS, React, Node.js + Express.js
+Python, Java, C# in .NET, PHP, MongoDB, SQL, some experience with Oracle and MySQL Databases, some Angular experience, some Arduino Programming experience, and knowledge of C programming.
+
+### GitHub Stats:
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=osm-alt)](https://github.com/anuraghazra/github-readme-stats)
