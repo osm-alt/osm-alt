@@ -1,22 +1,9 @@
 ### Hi there 👋
 
-<!--
-**osm-alt/osm-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I'm Omar Majzoub, a passionate software developer and Computer Science - Cybersecurity master's student at EPFL.
+I'm Omar Majzoub, an EPF-ETH Qualified Cybersecurity Engineer with an MSc in Computer Science – Cybersecurity from EPFL & ETH Zürich.
+My work spans systems security, secure virtualization, and Linux kernel development. For my master's thesis at ABB, I implemented a kernel-level secure time synchronization mechanism between Intel TDX virtual machines and produced the first working setup of Intel TDX with CXL shared memory.
 
 ### Languages and Tools:
-🚀 JavaScript and Typescript, HTML, CSS, React, Node.js + Express.js,
-Python, Java, C# in .NET, PHP, MongoDB, SQL, some experience with Oracle and MySQL Databases, some Angular experience, some Arduino Programming experience, and knowledge of C programming. 🛠️
+🚀 C, C++, Python, JavaScript/TypeScript, Java, C# (.NET), PHP, Bash
+React, Node.js + Express.js, Angular, MongoDB, SQL
+Docker, KVM, Linux kernel development, Intel TDX
